@@ -1,30 +1,41 @@
+🍽️ Menu App - Flutter Project
+A fully functional Flutter application showcasing my skills in UI/UX design, state management, multi-language support, and integration with Google Maps API. This app demonstrates my ability to build user-friendly, scalable, and feature-rich mobile applications.
 
-# Menu App
+✨ Key Features Implemented
+1. 📂 Dynamic Menu Categories
+Implemented a clean and organized UI to display menu items grouped into categories.
 
-A simple Flutter app to display a menu with categories and the ability to search for items. This app uses Firebase Firestore for data storage and Flutter Bloc for state management.
+Used custom widgets and animations to enhance the user experience.
 
-## Features
+2. 🔍 Efficient Search Functionality
+Added a real-time search bar that filters menu items based on user input.
 
-- **Categories:** Display menu items grouped into different categories.
-- **Search:** Search for menu items by name.
-- **Firebase Firestore:** The app uses Firebase Firestore to store and fetch menu items dynamically.
-- **Flutter Bloc:** State management is handled using Flutter Bloc for better separation of concerns and scalability.
+Optimized the search algorithm for fast and smooth performance.
 
-## Getting Started
+3. 🌐 Multi-Language Support (English & Arabic)
+Integrated localization to support both English and Arabic languages.
 
-Follow the steps below to get a copy of the project up and running on your local machine.
+Implemented RTL (Right-to-Left) layout support for Arabic users.
 
-### Prerequisites
+4. 📍 Live Navigation with Google Maps
+Integrated Google Maps API to provide real-time navigation from the user's location to the restaurant.
 
-Make sure you have the following installed on your system:
+Added support for different travel modes (walking, driving, etc.).
 
-- Flutter SDK
-- Dart SDK
-- Firebase Project (with Firestore enabled)
-- Android Studio / Visual Studio Code (or any IDE that supports Flutter development)
+Handled permissions and location services for a seamless user experience.
 
-### Installation
+🛠️ Technical Stack
+Framework: Flutter
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/menu-app.git
+State Management: Bloc Provider
+
+Localization: flutter_localizations package
+
+Maps Integration: Google Maps API
+
+Search Functionality: Custom algorithm with debouncing
+
+Version Control: Git & GitHub
+📸 Screenshots
+
+Developed with ❤️ by nadeen
