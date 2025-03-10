@@ -1,6 +1,6 @@
 🍽️ Menu App - Flutter Project
 A fully functional Flutter application showcasing my skills in UI/UX design, state management, multi-language support, and integration with Google Maps API. This app demonstrates my ability to build user-friendly, scalable, and feature-rich mobile applications.
-
+![Image](https://github.com/user-attachments/assets/b97fbaf3-5e98-4392-ae50-9b8a2b36a3e1)
 ✨ Key Features Implemented
 1. 📂 Dynamic Menu Categories
 Implemented a clean and organized UI to display menu items grouped into categories.
