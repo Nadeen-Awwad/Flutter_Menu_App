@@ -28,6 +28,7 @@ Maps Integration: Google Maps API
 Search Functionality: Custom algorithm with debouncing
 Version Control: Git & GitHub
 📸 Screenshots
+
 ![Image](https://github.com/user-attachments/assets/f9b0bfba-3fe8-4764-9eb2-c4fd126d5ccf)
 
 ![Image](https://github.com/user-attachments/assets/2449574b-6eb6-4257-a464-c84d9253fe35)
