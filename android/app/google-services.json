@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363755728733",
+    "project_id": "mat3ami-app",
+    "storage_bucket": "mat3ami-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363755728733:android:8fff389bd02712b40b42b4",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQEfRb1mk3-BJIPw1QtvCrSxiN9vKgu9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

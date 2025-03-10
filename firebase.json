@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mat3ami-app",
+          "appId": "1:363755728733:android:8fff389bd02712b40b42b4",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mat3ami-app",
+          "configurations": {
+            "android": "1:363755728733:android:8fff389bd02712b40b42b4",
+            "ios": "1:363755728733:ios:9cdebb25e007d8dc0b42b4",
+            "macos": "1:363755728733:ios:9cdebb25e007d8dc0b42b4",
+            "web": "1:363755728733:web:aeb0eeeb958e554d0b42b4",
+            "windows": "1:363755728733:web:8dcb0fb9c6e486680b42b4"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
