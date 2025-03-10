@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4686ba50-aa09-4368-8f94-6c36c918d612)🍽️ Menu App - Flutter Project
+🍽️ Menu App - Flutter Project
 A user-friendly Flutter app that showcases my skills in UI/UX design, state management, multi-language support, and Google Maps API integration. This app offers a smooth and feature-rich experience for users.
 
 
