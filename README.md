@@ -1,41 +1,30 @@
 🍽️ Menu App - Flutter Project
-A fully functional Flutter application showcasing my skills in UI/UX design, state management, multi-language support, and integration with Google Maps API. This app demonstrates my ability to build user-friendly, scalable, and feature-rich mobile applications.
+A user-friendly Flutter app that showcases my skills in UI/UX design, state management, multi-language support, and Google Maps API integration. This app offers a smooth and feature-rich experience for users.
+
+
 ![Image](https://github.com/user-attachments/assets/b97fbaf3-5e98-4392-ae50-9b8a2b36a3e1)
-✨ Key Features Implemented
-1. 📂 Dynamic Menu Categories
-Implemented a clean and organized UI to display menu items grouped into categories.
 
-Used custom widgets and animations to enhance the user experience.
+✨ Key Features
 
-2. 🔍 Efficient Search Functionality
-Added a real-time search bar that filters menu items based on user input.
+Dynamic Menu Categories
+Organized UI displaying menu items in categories with custom widgets and animations for a better experience.
 
-Optimized the search algorithm for fast and smooth performance.
+Efficient Search
+Real-time search bar that filters items quickly, optimized for smooth performance.
 
-3. 🌐 Multi-Language Support (English & Arabic)
-Integrated localization to support both English and Arabic languages.
+Multi-Language Support (English & Arabic)
+Supports both English and Arabic, with RTL layout for Arabic users.
 
-Implemented RTL (Right-to-Left) layout support for Arabic users.
-
-4. 📍 Live Navigation with Google Maps
-Integrated Google Maps API to provide real-time navigation from the user's location to the restaurant.
-
-Added support for different travel modes (walking, driving, etc.).
-
-Handled permissions and location services for a seamless user experience.
+Live Navigation with Google Maps
+Google Maps integration for real-time navigation, supporting walking, driving, and more. Handles location permissions seamlessly.
 
 🛠️ Technical Stack
+
 Framework: Flutter
-
 State Management: Bloc Provider
-
-Localization: flutter_localizations package
-
+Localization: flutter_localizations
 Maps Integration: Google Maps API
-
 Search Functionality: Custom algorithm with debouncing
-
 Version Control: Git & GitHub
 📸 Screenshots
-
-Developed with ❤️ by nadeen
+Built with ❤️ by Nadeen.
