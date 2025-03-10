@@ -1,16 +1,30 @@
-# untitled
 
-A new Flutter .
+# Menu App
+
+A simple Flutter app to display a menu with categories and the ability to search for items. This app uses Firebase Firestore for data storage and Flutter Bloc for state management.
+
+## Features
+
+- **Categories:** Display menu items grouped into different categories.
+- **Search:** Search for menu items by name.
+- **Firebase Firestore:** The app uses Firebase Firestore to store and fetch menu items dynamically.
+- **Flutter Bloc:** State management is handled using Flutter Bloc for better separation of concerns and scalability.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the steps below to get a copy of the project up and running on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have the following installed on your system:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Dart SDK
+- Firebase Project (with Firestore enabled)
+- Android Studio / Visual Studio Code (or any IDE that supports Flutter development)
+
+### Installation
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/menu-app.git
