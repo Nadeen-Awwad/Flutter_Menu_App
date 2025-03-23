@@ -36,5 +36,5 @@ Version Control: Git & GitHub
 ![image](https://github.com/user-attachments/assets/f5a2aac5-0196-474a-af0f-300543ce7851)
 
 
-Built with ❤️ by Nadeen.
+Built by Nadeen.
 
