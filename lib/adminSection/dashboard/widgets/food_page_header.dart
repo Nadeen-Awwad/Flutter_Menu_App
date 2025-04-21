@@ -72,7 +72,7 @@ class _FoodPageHeaderState extends State<FoodPageHeader> {
                 children: [
                   GestureDetector(
                     onTap: () {
-                      languageProvider.toggleLanguage(); // Toggle the language
+                      languageProvider.toggleLanguage(); 
                     },
                     child: Row(
                       children: [
@@ -158,7 +158,7 @@ class _FoodPageHeaderState extends State<FoodPageHeader> {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(15),
               border: Border.all(
-                color: Palette.appColor, // لون الإطار
+                color: Palette.appColor,
                 width: 2,
               ),
             ),
