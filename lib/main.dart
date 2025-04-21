@@ -29,10 +29,8 @@ void main() async {
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     statusBarColor: Colors.black,
     systemNavigationBarColor: Colors.black,
-    // لون شريط التنقل السفلي (لو عندك)
     systemNavigationBarIconBrightness: Brightness.light,
-    // لون الأيقونات في شريط التنقل
-    statusBarIconBrightness: Brightness.dark, // لو الخلفية فاتحة، خليه dark
+    statusBarIconBrightness: Brightness.dark, 
   ));
 
   runApp(
@@ -43,9 +41,7 @@ void main() async {
         BlocProvider(create: (_) => CartBloc()),
         BlocProvider(create: (_) => AuthBloc()),
         ChangeNotifierProvider(create: (_) => LanguageProvider()),
-        // Add LanguageProvider
         ChangeNotifierProvider(create: (_) => ThemeProvider()),
-        // Add ThemeProvider
       ],
       child: const MyApp(),
     ),
