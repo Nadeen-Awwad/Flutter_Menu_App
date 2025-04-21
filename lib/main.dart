@@ -20,7 +20,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  PaintingBinding.instance.imageCache.maximumSize = 100; // Adjust as needed
+  PaintingBinding.instance.imageCache.maximumSize = 100; 
 
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
